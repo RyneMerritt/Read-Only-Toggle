@@ -1,6 +1,6 @@
 import os
 import glob
-import sys
+from tkinter import *
 import stat
 import keyboard
 
